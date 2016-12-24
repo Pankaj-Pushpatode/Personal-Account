@@ -1,7 +1,4 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
+
 
 import com.yash.jdbc.users.users;
 import com.yash.jdbc.users.usersDao;
@@ -17,7 +14,7 @@ import org.apache.catalina.Session;
 
 /**
  *
- * @author YASH KUMAR
+ * @author Pankaj
  */
 public class Athentication extends HttpServlet {
 
