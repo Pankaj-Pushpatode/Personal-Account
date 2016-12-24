@@ -17,7 +17,7 @@ import javax.servlet.http.HttpSession;
 
 /**
  *
- * @author YASH KUMAR
+ * @author Pankaj
  */
 public class Home extends HttpServlet {
    private RequestDispatcher rd;
